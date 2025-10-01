@@ -14,7 +14,7 @@ I have experience in multiple programming languages (**C#, .NET, Python, C/C++, 
 
 ## 🛠️ Skills & Technologies  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,anaconda,android,cpp,androidstudio,cs,css,dart,dbeaver,arduino,discord,discordbots,discordjs,c,ffmpeg,flutter,itchio,java,javascript,git,github,kotlin,markdown,html,mermaid,mysql,python,ngrok,nodejs,npm,numpy,oracle,ros,scipy,snowflake,sqlite,unity,cmake,apache,docker,aws,bash,dotnet,latex,gemini,flask,firebase,supabase,chatgpt,cuda,arch,desmos,blazor,blender,gcp,overleaf,linux,photoshop,photoshopclassic,lua,lucidchart,postman,n8n,neovim,proton,nginx,qt,ollama)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,anaconda,android,cpp,androidstudio,cs,css,dart,dbeaver,arduino,discord,discordbots,discordjs,c,ffmpeg,flutter,itchio,java,javascript,git,github,kotlin,markdown,html,mermaid,mysql,python,ngrok,nodejs,npm,numpy,oracle,ros,scipy,snowflake,sqlite,unity,cmake,apache,docker,aws,bash,dotnet,latex,gemini,flask,firebase,supabase,chatgpt,cuda,arch,desmos,blazor,blender,gcp,overleaf,linux,lua,lucidchart,postman,n8n,neovim,proton,nginx,qt,ollama)
 
 ---
 
@@ -42,8 +42,8 @@ I have experience in multiple programming languages (**C#, .NET, Python, C/C++, 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-idham-ma-arif-000abb339)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/muhammadidhamma1)  
+
+[info@idhamadam.com](mailto:info@idhamadam.com)
 
 💬 *Feel free to reach out — I'm always interested in exciting projects, collaboration opportunities, or just a good tech discussion!*  
 
