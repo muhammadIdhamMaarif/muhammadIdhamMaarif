@@ -12,18 +12,9 @@ I have experience in multiple programming languages (**C#, .NET, Python, C/C++, 
 
 ---
 
-## 🚀 Projects  
-- **Tenki Weather** – An Indonesian-language weather chatbot built with Unity (WebGL), integrating OpenAI, WeatherAPI, and ElevenLabs for natural voice interaction.  
-- **Bodo (Booking Dokter)** – A hospital queue & medical record management system (C++) using Queue and AVL Tree data structures with advanced search & undo functionality.  
-- **WakaTime Clockify Logger** – A JavaScript automation tool that logs work hours from WakaTime & Clockify into Google Sheets, tracking productivity by project and date.  
-
-> *(See more in my repositories — including bots, tools, and educational games!)*
-
----
-
 ## 🛠️ Skills & Technologies  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,anaconda,android,cpp,androidstudio,cs,css,dart,dbeaver,arduino,discord,discordbots,discordjs,c,ffmpeg,flutter,itchio,flutterflow,java,javascript,git,github,kotlin,markdown,html,mermaid,mysql,python,ngrok,nodejs,npm,numpy,oracle,ros,scipy,snowflake,sqlite,unity,cmake,apache,docker,aws,bash,dotnet,latex,gemini,flask,firebase,supabase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,anaconda,android,cpp,androidstudio,cs,css,dart,dbeaver,arduino,discord,discordbots,discordjs,c,ffmpeg,flutter,itchio,java,javascript,git,github,kotlin,markdown,html,mermaid,mysql,python,ngrok,nodejs,npm,numpy,oracle,ros,scipy,snowflake,sqlite,unity,cmake,apache,docker,aws,bash,dotnet,latex,gemini,flask,firebase,supabase,chatgpt,cuda,arch,desmos,blazor,blender,gcp,overleaf,linux,photoshop,photoshopclassic,lua,lucidchart,postman,n8n,neovim,proton,nginx,qt,ollama)
 
 ---
 
