@@ -43,7 +43,7 @@ I have experience in multiple programming languages (**C#, .NET, Python, C/C++, 
 
 ## 📫 Connect with Me  
 
-[info@idhamadam.com](mailto:info@idhamadam.com)
+[hi@idhamadam.com](mailto:hi@idhamadam.com)
 
 💬 *Feel free to reach out — I'm always interested in exciting projects, collaboration opportunities, or just a good tech discussion!*  
 
