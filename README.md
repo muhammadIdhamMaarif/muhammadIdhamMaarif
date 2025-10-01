@@ -16,8 +16,6 @@ I have experience in multiple programming languages (**C#, .NET, Python, C/C++, 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,anaconda,android,cpp,androidstudio,cs,css,dart,dbeaver,arduino,discord,discordbots,discordjs,c,ffmpeg,flutter,itchio,java,javascript,git,github,kotlin,markdown,html,mermaid,mysql,python,ngrok,nodejs,npm,numpy,oracle,ros,scipy,snowflake,sqlite,unity,cmake,apache,docker,aws,bash,dotnet,latex,gemini,flask,firebase,supabase,chatgpt,cuda,arch,desmos,blazor,blender,gcp,overleaf,linux,lua,lucidchart,postman,n8n,neovim,proton,nginx,qt,ollama)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadIdhamMaarif&layout=compact)
-
 ---
 
 ## 📊 GitHub Stats  
@@ -31,7 +29,7 @@ I have experience in multiple programming languages (**C#, .NET, Python, C/C++, 
 </tr></table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadIdhamMaarif&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadIdhamMaarif&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
