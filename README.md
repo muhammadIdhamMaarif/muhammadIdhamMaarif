@@ -14,7 +14,7 @@ I have experience in multiple programming languages (**C#, .NET, Python, C/C++, 
 
 ## 🛠️ Skills & Technologies  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,anaconda,android,cpp,androidstudio,cs,css,dart,dbeaver,arduino,discord,discordbots,discordjs,c,ffmpeg,flutter,itchio,java,javascript,git,github,kotlin,markdown,html,mermaid,mysql,python,ngrok,nodejs,npm,numpy,oracle,ros,scipy,snowflake,sqlite,unity,cmake,apache,docker,aws,bash,dotnet,latex,gemini,flask,firebase,supabase,chatgpt,cuda,arch,desmos,blazor,blender,gcp,overleaf,linux,lua,lucidchart,postman,n8n,neovim,proton,nginx,qt,ollama,debian,ubuntu,windows)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,linux,debian,ubuntu,windows,kubernetes,eks,docker,aws,gcp,azure,oracle,terraform,ansible,consul,cloudflare,cs,dotnet,cpp,css,discord,discordbots,discordjs,c,ffmpeg,java,javascript,git,github,gitlab,kotlin,markdown,html,mysql,python,ngrok,nodejs,npm,numpy,ros,scipy,sqlite,unity,cmake,apache,nginx,bash,latex,flask,chatgpt,desmos,blender,overleaf,lua,lucidchart,postman,n8n,neovim,qt,ollama,api,circleci,argocd,astro,githubactions,golang,graphql,yaml)
 
 ---
 
