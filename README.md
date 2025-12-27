@@ -18,30 +18,6 @@ I have experience in multiple programming languages (**C#, .NET, Python, C/C++, 
 
 ---
 
-## 📊 GitHub Stats  
-<table><tr>
-<td valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadIdhamMaarif&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Stats"/>
-</td>
-<td valign="top">
-  <img src="https://streak-stats.demolab.com?user=muhammadIdhamMaarif&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</td>
-</tr></table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadIdhamMaarif&layout=compact" alt="Top Languages"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadIdhamMaarif&theme=onedark&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 📫 Connect with Me  
 
 [hi@idhamadam.com](mailto:hi@idhamadam.com)
