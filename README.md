@@ -6,6 +6,8 @@
 I'm **Muhammad Idham Maarif**, a passionate Computer Science student and software developer.  
 I have experience in multiple programming languages (**C#, .NET, Python, C/C++, JavaScript, Java, and more**) and love building innovative projects — from interactive games and chatbots to robust system tools.  
 
+I'm employed at MIT currently. Do not open for work.
+
 💡 I enjoy tackling algorithmic challenges, learning new technologies, and contributing to the open-source community. Collaboration and sharing knowledge with others is what drives me.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammadIdhamMaarif)
